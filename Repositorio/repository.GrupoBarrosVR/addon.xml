@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.GrupoBarrosVR" name="[COLOR lime]Meu Repositório[/COLOR] Repo" version="1.0.1" provider-name="GrupoBarrosVR">
+<addon id="repository.GrupoBarrosVR" name="[COLOR lime]GrupoBarrosVR[/COLOR] Repo" version="1.0.1" provider-name="GrupoBarrosVR">
     <extension point="xbmc.addon.repository" name="GrupoBarrosVR">
         <info>https://raw.githubusercontent.com/ARB79/GrupoBarrosVR/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/ARB79/GrupoBarrosVR/master/Repositorio/addons.xml.md5</checksum>
