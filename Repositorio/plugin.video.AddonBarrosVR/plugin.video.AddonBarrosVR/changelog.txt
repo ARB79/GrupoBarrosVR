@@ -1,5 +1,5 @@
 ﻿Versão 5.3.9
-Modificação dos fundos e compatibilidadee com o addon Séries
+Modificação dos fundos e compatibilidade com o addon Séries
 
 Versão 5.3.8
 Actualização do código para adaptar-se aos novos Regex.
@@ -11,7 +11,7 @@ Versão 5.3.6
 Actualizado os conectores para melhorar a adaptar-se aos novos regex.
 
 Versão 5.3.5
-melhorada toda a estructura do addon com novos scrips.
+melhorada toda a estructura do addon com novos scripts.
 
 Versão 5.3.4
 melhorada a segurança do addon para evitar roubos das listas
@@ -44,18 +44,18 @@ Versão 5.2.6
 Actualização dos fundos 
 
 Versão 5.2.5
-Correcção de erros na listrepeat por artículos individuais. Também agora param0 está disponível, que será o número de fila.
+Correcção de erros na listrepeat por artigos individuais. Também agora param0 está disponível, que será o número de fila.
 Desactivada a opção parental por não funcionar bem no Android
 
 Versão 5.2.4
 Disposição para fazer na configuração
 
 Versão 5.2.3
-Actualizada a função desempacado de dividir la cadena ABC, así como empaquetado.
+Actualizada a função desempacotar de dividir a cadeia ABC, assim como empacotar.
 Actualizado o fundo de ecrã.
 
 Versão 5.2.2
-Ignorar error na creação de listas
+Ignorar error na criação de listas
 
 Versão 5.2.1
 Vários ajustes
