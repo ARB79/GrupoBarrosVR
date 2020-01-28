@@ -1,4 +1,4 @@
-﻿Versão 5.3.9
+﻿﻿Versão 5.3.9
 Modificação dos fundos e compatibilidade com o addon Séries
 
 Versão 5.3.8
@@ -44,18 +44,18 @@ Versão 5.2.6
 Actualização dos fundos 
 
 Versão 5.2.5
-Correcção de erros na listrepeat por artigos individuais. Também agora param0 está disponível, que será o número de fila.
+Correcção de erros na listrepeat por artículos individuais. Também agora param0 está disponível, que será o número de fila.
 Desactivada a opção parental por não funcionar bem no Android
 
 Versão 5.2.4
 Disposição para fazer na configuração
 
 Versão 5.2.3
-Actualizada a função desempacotar de dividir a cadeia ABC, assim como empacotar.
+Actualizada a função desempacotado de dividir as cadeias ABC, assim como empacotado.
 Actualizado o fundo de ecrã.
 
 Versão 5.2.2
-Ignorar error na criação de listas
+Ignorar erros na criação de listas
 
 Versão 5.2.1
 Vários ajustes
@@ -77,3 +77,12 @@ Melhoras na estabilidade. Alterar o fundo
 
 Versão 2.0
 Primera Versão do plugin AddonBarrosVR. Todas as listas incluidas são propiedade dos seus criadores, AddonBarrosVR não se responsabliza pelo conteúdo.
+
+    © 2020 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+Contact 
